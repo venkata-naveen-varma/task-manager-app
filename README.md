@@ -1,7 +1,8 @@
 # task-manager-app
-Performing REST API Operations like GET/POST/PATCH/DELETE to manipulate data MongoDb Database(by performing CRUD Operations) using Nodejs, Express FrameWork.
+Performing REST API Operations like GET/POST/PATCH/DELETE to play around with the data in MongoDb Database(by performing CRUD Operations) using Nodejs, Express FrameWork.
 
 ## POSTMAN API is used for implementing and Testing this project
+> You can checkout my postman Documentation of the same at the url: In process...  :)
 
 npm modules used:
 > bycrypt to encrypt and decrypt user password
