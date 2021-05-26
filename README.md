@@ -26,4 +26,4 @@ Performing REST API Operations like GET/POST/PATCH/DELETE to play around with th
 - Last but not least :) "express" module for routing and http requests
 
 ## POSTMAN API is used for implementing and Testing this project
-> You can checkout my postman Documentation of the same at the url: In process...  :)
+> You can checkout my postman Documentation for more details regarding the implementation of the HTTP-Requests at the url: In process...  :)
