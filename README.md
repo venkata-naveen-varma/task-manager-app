@@ -18,13 +18,10 @@ Performing REST API Operations like GET/POST/PATCH/DELETE to play around with th
     ├── index.js
 
 ## For better understanding
--> NoSql Database models for 'User' and 'Task' are cereted in 'models directory' with a Relation-"if a user is removed then all tasks associated with that user must also be removed"
-
--> mongoose-npm module is used to connect to the MongoDb database in the 'db directory'
-
--> To route each request from a user Two routers are created ( One for Task and the other for User ) in the 'routers directory'. This is where each request is received and respective action is perfromed for all the CRUD operations on the MongoDb database
-
--> server is initialized to listen user requests in the 'index.js file'
+> NoSql Database models for 'User' and 'Task' are cereted in 'models directory' with a Relation-"if a user is removed then all tasks associated with that user must also be removed"
+> mongoose-npm module is used to connect to the MongoDb database in the 'db directory'
+> To route each request from a user Two routers are created ( One for Task and the other for User ) in the 'routers directory'. This is where each request is received and respective action is perfromed for all the CRUD operations on the MongoDb database
+> server is initialized to listen user requests in the 'index.js file'
 
 ## npm modules used in this project:
 - "bycrypt" to encrypt and decrypt user password
