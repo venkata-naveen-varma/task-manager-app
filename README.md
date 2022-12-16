@@ -2,7 +2,8 @@
 Performing REST API Operations like GET/POST/PATCH/DELETE to play around with the data in MongoDb Database(by performing CRUD Operations) using Nodejs, Express FrameWork.
 
 
-### Medium Post with all details --> https://naveen-varma.medium.com/list/backend-nodejs-79221c4f5487
+### Checout the Medium Post for details
+> https://naveen-varma.medium.com/list/backend-nodejs-79221c4f5487
 
 
 ## POSTMAN API
