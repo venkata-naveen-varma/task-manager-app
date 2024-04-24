@@ -3,7 +3,7 @@ Performing REST API Operations like GET/POST/PATCH/DELETE to play around with th
 
 
 ### Checout the Medium Post for details
-> https://naveen-varma.medium.com/list/backend-nodejs-79221c4f5487
+> https://naveen-varma.medium.com/task-manager-application-using-mongodb-with-nodejs-291c17006ef7
 
 
 ## POSTMAN API
